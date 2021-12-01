@@ -1,4 +1,4 @@
-# [Build a SaaS product using Next.js, Supabase and Stripe](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20)
+# Build a SaaS product using Next.js, Supabase and Stripe
 
 <table>
   <tr>
@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-> This repo accompanies the [free egghead course](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20). Watch the [Welcome video](https://www.youtube.com/watch?v=J-UStg7te6M).
+> This repo accompanies a free egghead course. Watch the [Welcome video](https://www.youtube.com/watch?v=J-UStg7te6M).
 
 ## 🔍 About
 
