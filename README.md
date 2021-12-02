@@ -13,7 +13,7 @@
 
 > This repo accompanies a free egghead course. Watch the [Welcome video](https://www.youtube.com/watch?v=J-UStg7te6M).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J-UStg7te6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video url="https://www.youtube.com/embed/J-UStg7te6M"></video>
 
 ## 🔍 About
 
