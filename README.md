@@ -25,7 +25,7 @@ Jon will take you through all of this and more in just 1 hour and 10 minutes!
 
 [Jon's courses at egghead.](https://egghead.io/q/resources-by-jon-meyers)
 
-Enjoyed the course? Follow Jon on [Twitter](https://twitter.com/_dijonmusters) and subscribe to his [YouTube channel](https://youtube.com/c/JonMeyers).
+Enjoyed the course? Follow Jon on [Twitter](https://twitter.com/jonmeyers_io) and subscribe to his [YouTube channel](https://youtube.com/c/JonMeyers).
 
 ## 🗺 Table of Contents
 
