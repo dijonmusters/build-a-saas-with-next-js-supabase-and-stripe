@@ -9,7 +9,7 @@ const handler = async (req, res) => {
     return res.status(401).send("Unauthorized");
   }
 
-  const token = cookie.parse(req.headers.cookie)["sb:token"];
+  const token = cookie.parse(req.headers.cookie)["sb-access-token"];
 
   supabase.auth.session = () => ({
     access_token: token,
